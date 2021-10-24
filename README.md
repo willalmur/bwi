@@ -2,7 +2,7 @@
  Configuration Validation Tool
 
  # Description 
- A web interface to a tool that parses and validates network configuration 
+ An Angular web interface to a tool that parses and validates network configuration 
 
  # Explore
   - To check code examples of the Angular components open "bwi-code example"
